@@ -6,4 +6,4 @@ n1 = Number(n1);
 n2 = Number(n2);
 const soma = n1 + n2;
 
-alert('A soma é: ' + soma);
+alert(`A soma é: ${soma}`);
